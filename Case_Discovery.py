@@ -120,7 +120,7 @@ def main():
     model = load_model(model_name)
 
     # Hardcoded index file path
-    index_file = "data/my_index_file.json"
+    index_file = "data/aniket-legal-firm-index.json"
 
     # Query input
     query = st.text_input("Enter your legal query:")

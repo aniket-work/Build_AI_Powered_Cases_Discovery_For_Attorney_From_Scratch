@@ -67,9 +67,12 @@ The project consists of the following components:
 
    Finally, execute the following command to start the Market Analysis AI application:
 
-   ```bash   
+   ```bash 
+   python Legal_Cases_Indexer.py  
    # Run UI
-   streamlit run main.py
+   streamlit run Case_Discovery.py
    ```  
+   
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
 

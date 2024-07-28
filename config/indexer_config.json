@@ -1,0 +1,9 @@
+{
+    "add_file_content": true,
+    "index_file_name": "aniket-legal-firm-index.json",
+    "directory_path": "database",
+    "model": "all-MiniLM-L6-v2",
+    "chunk_size": 512,
+    "overlap": 50,
+    "njobs": 4
+}
