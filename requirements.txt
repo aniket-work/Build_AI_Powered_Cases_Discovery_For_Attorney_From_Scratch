@@ -1,0 +1,7 @@
+transformers
+joblib
+sentence-transformers
+tqdm
+torch==2.2.0
+pandas
+pypdf
